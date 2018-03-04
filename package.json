@@ -1,0 +1,19 @@
+{
+  "name": "grace-hopper-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandraCP/Grace-Hopper-React.git"
+  },
+  "author": "Alejandra Cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandraCP/Grace-Hopper-React/issues"
+  },
+  "homepage": "https://github.com/AlejandraCP/Grace-Hopper-React#readme"
+}
