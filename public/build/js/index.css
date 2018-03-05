@@ -4,11 +4,31 @@ body {
 }
 
 .w75 {
-  width: 75%;
+  width: 73%;
   display: inline-block;
+  margin: 0.5rem;
   }
 
 .w25 {
   width: 25%;
   float: right;
+}
+
+.summary-table{
+  border: 1px solid gray;
+  background-color: #f8f9fa;
+  font-size: 14px;
+  padding: 3px;
+}
+.summary-table thead th{
+  background-color: #80c4de;
+  font-size: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.summary-table tbody tr:first-child{
+  text-align: center;
+}
+.summary-table tbody th{
+  text-align: left;
 }
