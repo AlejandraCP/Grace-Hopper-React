@@ -1,0 +1,14 @@
+
+body {
+  font-family: 'Karma', serif;
+}
+
+.w75 {
+  width: 75%;
+  display: inline-block;
+  }
+
+.w25 {
+  width: 25%;
+  float: right;
+}
